@@ -1,0 +1,18 @@
+PROJECT TITLE: E-Commerce Sales & Profit Analysis
+
+PROJECT OBJECTIVE:
+To analyze e-commerce sales data, identify profit trends, understand product performance, and generate useful business insights.
+
+TOOLS USED:
+Python, Pandas, Matplotlib, Seaborn, Power BI, and GitHub.
+
+PROJECT TASKS:
+
+1. Dataset selection and data cleaning
+2. Exploratory Data Analysis (EDA)
+3. Data visualization
+4. Interactive Power BI dashboard
+5. Business insights and recommendations
+
+PROJECT STATUS:
+Initial project setup completed.
