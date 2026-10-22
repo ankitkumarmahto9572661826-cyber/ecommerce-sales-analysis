@@ -1,0 +1,15 @@
+E-COMMERCE SALES ANALYSIS - PROJECT PLAN
+
+Phase 1: Dataset selection
+Phase 2: Data inspection and cleaning
+Phase 3: Exploratory Data Analysis
+Phase 4: Data visualization
+Phase 5: Power BI dashboard
+Phase 6: Business insights and recommendations
+
+Expected Deliverables:
+1. Cleaned dataset
+2. Python analysis notebook
+3. Five or more visualizations
+4. Power BI dashboard
+5. Final project report
